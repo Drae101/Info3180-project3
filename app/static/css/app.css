@@ -14,7 +14,7 @@ body{
     padding-bottom: 50px;
     text-align: center;
     color: white;
-    background: url(/static/img/landingimg.jpg) no-repeat center center;
+    background: url(/static/img/background.jpg) no-repeat center center;
     background-size: cover;
 }
 
