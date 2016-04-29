@@ -87,21 +87,11 @@ def get_data(url):
     
     
 
-url1 = "http://www.ebay.com/itm/Apple-iPad-Air-2-64GB-Wi-Fi-4G-Cellular-Apple-SIM-9-7in-Silver-/252314650117?hash=item3abf200605:g:m8sAAOSwN81WDu3a"
+url1 = "http://www.amazon.com/PB278Q-2560x1440-DisplayPort-Ergonomic-Back-lit/dp/B009C3M7H0/ref=pd_sim_147_6?ie=UTF8&dpID=41kIGw387wL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=15TJ4Q65C6BQWS8MNARZ"
 url2 = "http://www.ebay.com/itm/Unlocked-Dual-Sim-BLU-PHONE-Advance-5-0-Smartphone-US-GSM-White-/262304395053?hash=item3d128f6f2d:g:ntQAAOSwe7BWzOQU"
 url3 = "http://www.amazon.com/gp/product/B00THKEKEQ/ref=s9_ri_gw_g421_i1_r?ie=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-4&pf_rd_r=1WEK74K6Y8MXQC6BSHDN&pf_rd_t=36701&pf_rd_p=2437869562&pf_rd_i=desktop"
 url4 = "http://www.amazon.com/gp/product/B012GC5DX8/ref=s9_qpp_gw_d38_g107_i1_r?ie=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-1&pf_rd_r=0HX3HCEVK96HB5FDXMV0&pf_rd_t=36701&pf_rd_p=2437869742&pf_rd_i=desktop"
 url5 = "http://www.forever21.com/Product/Product.aspx?BR=f21&Category=dress&ProductID=2000187141&VariantID="
 url6 = "http://www.homedepot.com/p/Samsung-Chef-Collection-24-1-cu-ft-4-DoorFlex-French-Door-Refrigerator-in-Stainless-Steel-Counter-Depth-RF24J9960S4/206046683"
-url7 = "http://www.walmart.com/ip/46201753?findingMethod=wpa&wpa_qs=DzjAXPVfWOGVVepHE5ZfB_oDpEnKXg_YgvHURtkauAM&tgtp=2&cmp=-1&pt=hp&adgrp=-1&plmt=1145x345_B-C-OG_TI_8-20_HL_MID_HP&bkt=__bkt__&pgid=0&adUid=6abe87a7-e10e-47be-95ed-78acc0ced678&adiuuid=4389b3fd-2b89-49e7-b5c6-e21789ccce98&adpgm=hl&pltfm=desktop"
-url8 = "http://www.amazon.com/AmazonBasics-Lightweight-On-Ear-Headphones-Black/dp/B00NBEWB4U/ref=sr_1_1?s=electronics&srs=10112675011&ie=UTF8&qid=1459377481&sr=1-1"
-
-
-#print get_data(url1)
-#print get_data(url2)
-#print get_data(url3)
-#print get_data(url4)
-#print get_data(url5)
-#print get_data(url6)
-#print get_data(url7)
-#print get_data(url8)
+url7 = "http://www.amazon.com/Cable-Matters-DisplayPort-Thunderbolt-Compatible/dp/B00ESM3CGA/ref=pd_sim_147_1?ie=UTF8&dpID=31yhLpt33sL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=08DN5S05SEHHQ7XA7CRR"
+url8 = "http://www.amazon.com/dp/B01CX26VNC/ref=s9_acsd_bw_wf_a_NREsmgwt_cdl_0?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-top-3&pf_rd_r=0XTGA18041VSCZS731HX&pf_rd_t=101&pf_rd_p=7dd8b26a-ae49-427d-8df0-4ddd3da6a98e&pf_rd_i=14045457011"
