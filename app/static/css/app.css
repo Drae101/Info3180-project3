@@ -2,7 +2,7 @@ body{
     background-color: blue;
 }
 .wish-header{
-    background-image: url("/static/img/header-background.png");
+    background-image: url("/static/img/header-background.jpg");
     padding-left: 10px;
     padding-top: 5px;
     padding-bottom: 15px;
@@ -13,7 +13,7 @@ body{
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
-    color: #f8f8f8;
+    color: white;
     background: url(/static/img/landingimg.jpg) no-repeat center center;
     background-size: cover;
 }
@@ -32,7 +32,7 @@ body{
 
 .intro-divider {
     width: 400px;
-    border-top: 1px solid #f8f8f8;
+    border-top: 1px solid blue;
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
